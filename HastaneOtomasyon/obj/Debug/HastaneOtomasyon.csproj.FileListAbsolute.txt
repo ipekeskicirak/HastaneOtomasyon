@@ -1,0 +1,16 @@
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe.config
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.exe
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\bin\Debug\HastaneOtomasyon.pdb
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.DoktorGiris.resources
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Form1.resources
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.HastaGiris.resources
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Properties.Resources.resources
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.YoneticiGirisi.resources
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.csproj.GenerateResource.Cache
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.exe
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.pdb
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.YoneticiPanel.resources
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.YoneticiPanelHasta.resources
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.YoneticiPanelDoktor.resources
+C:\Users\Ethem\Desktop\Hastane otomasyonu\Proje\HastaneOtomasyon\HastaneOtomasyon\HastaneOtomasyon\obj\Debug\HastaneOtomasyon.Admin.YoneticiPanelRandevu.resources
